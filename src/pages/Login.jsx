@@ -43,7 +43,7 @@ const Login = () => {
         }}>
             <div className="card" style={{ width: '100%', maxWidth: '400px' }}>
                 <h2 style={{ textAlign: 'center', marginBottom: '24px', color: '#1f2937' }}>
-                    Login to QuizApp
+                    Login to BCHS-CBT
                 </h2>
 
                 {error && (

@@ -18,7 +18,7 @@ const Navbar = () => {
         <nav className="navbar">
             <div className="navbar-content">
                 <Link to="/" className="navbar-brand">
-                    QuizApp
+                    BCHS
                 </Link>
 
                 <ul className="navbar-nav">
